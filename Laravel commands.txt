@@ -1,0 +1,29 @@
+https://youtu.be/qKR5V9rdht0
+
+laravel new manasi
+
+composer require laravel/ui
+php artisan ui bootstrap
+php artisan ui bootstrap --auth
+//after this layouts folder  will be added.
+
+npm install
+ npm run dev
+ ---- Finished. Please run Mix again.----
+
+npm install resolve-url-loader@^4.0.0 --save-dev --legacy-peer-deps
+npm run dev
+php artisan migrate
+
+
+
+php artisan make:model Account -mcr
+
+php artisan route:list
+
+
+
+
+
+jquery
+npm install jquery-ui --save-dev
